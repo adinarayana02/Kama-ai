@@ -27,7 +27,7 @@ export const CASE_STUDIES = [
     title: "Healthcare Provider's Patient Acquisition Strategy",
     category: "Healthcare",
     image: "https://images.pexels.com/photos/1170979/pexels-photo-1170979.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    
+    leadIncrease: "156%",
     testimonial: "Our patient inquiries increased dramatically while maintaining HIPAA compliance across all channels.",
     clientName: "Dr. Leslie Thompson",
     clientPosition: "Director, MediCare Group",
@@ -37,7 +37,7 @@ export const CASE_STUDIES = [
     title: "Real Estate Agency's Property Lead Generation",
     category: "Real Estate",
     image: "https://images.pexels.com/photos/1546168/pexels-photo-1546168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-   
+    leadIncrease: "178%",
     testimonial: "Property inquiries shot up within 30 days of implementing the system, resulting in record sales for Q3.",
     clientName: "sharama",
     clientPosition: "Owner, Prime Properties",
@@ -47,7 +47,7 @@ export const CASE_STUDIES = [
     title: "Education Platform's Student Registration Boost",
     category: "Education",
     image: "https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    
+    leadIncrease: "122%",
     testimonial: "Course registrations increased by 122% year-over-year with a 45% reduction in cost per acquisition.",
     clientName: "Emily Zhang",
     clientPosition: "Growth Manager, EduLearn",
