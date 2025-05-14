@@ -34,9 +34,8 @@ export function GlowingButton({
   const baseStyles = cn(
     "relative flex justify-center items-center rounded-lg font-medium transition-colors focus:outline-none",
     {
-      "text-white hover:text-white": variant === "primary",
-      "text-white hover:text-white": variant === "secondary",
-      "text-white hover:text-white border border-white/20": variant === "outline",
+      "text-white hover:text-white": variant === "primary" || variant === "secondary" || variant === "outline",
+      "border border-white/20": variant === "outline",
       "py-2 px-4 text-sm": size === "sm",
       "py-3 px-6 text-base": size === "md",
       "py-4 px-8 text-lg": size === "lg",
